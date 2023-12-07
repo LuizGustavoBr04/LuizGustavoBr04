@@ -87,7 +87,7 @@
   </div>
   <p align="center">
     <img
-      src="https://profile-counter.glitch.me/CarlosEduardoBr04/count.svg"
+      src="https://profile-counter.glitch.me/LuizGustavoBr04/count.svg"
       alt="Ilustração do número de visitantes no perfil"
     />
   </p>
