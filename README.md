@@ -4,9 +4,8 @@
   
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=7000&pause=1000&random=false&width=500&lines=Bem+vindo+ao+meu+perfil!;+Me+chamo+Gustavo!;)](https://git.io/typing-svg)
 
-  Welcome to my profile!
+ Bem Vindo!
 
-  ### I'm Eduardo, but you can call me Kdu! 👋🏼😊
 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavo_almeida099?igshid=OGQ5ZDc2ODk2ZA==)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo01/)
