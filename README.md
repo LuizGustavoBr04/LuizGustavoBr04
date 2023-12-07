@@ -49,7 +49,7 @@
 
   <br />
 
-  ### Technologies I Have Knowledge In:
+  ### Tecnologias nas Quais Tenho Conhecimento
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![css](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,7 +64,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-  🏆 GitHub Profile Trophy:
+  🏆 Troféu do Perfil do GitHub
 
 <p align="center">
   <a
@@ -82,7 +82,7 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizGustavoBr04&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <div align="center">
-    <h3><b>📍 Profile Visitor Count</b></h3>
+    <h3><b>📍 Contador de Visitantes do Perfil</b></h3>
   </div>
   <p align="center">
     <img
