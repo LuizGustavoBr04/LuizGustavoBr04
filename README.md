@@ -9,7 +9,7 @@
   ### I'm Eduardo, but you can call me Kdu! 👋🏼😊
 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kdu_almeida06/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo01/)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/luizgustavo.souzaalmeida.3?mibextid=ZbWKwL)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/LuizGustavoBr4?t=fPo4QFEc1iO8HtpD0BywAg&s=09)
 
